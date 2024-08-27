@@ -51,4 +51,3 @@ pyautogui.typewrite('exit')
 pyautogui.press('enter')
 
 print("Programa enviado para o repositório remoto com sucesso!")
-cd "C:\Users\Aluno Manh\Documents\envio_github"
